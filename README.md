@@ -1,2 +1,2 @@
 # elevatum
-This is my very destructive malware
+C++ GDI trojan by red-wipet
